@@ -1,0 +1,3 @@
+# mylab2
+
+INF2002 LAB 2 EXERCISE
